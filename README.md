@@ -1,2 +1,2 @@
-# This is to preactice git commands
+# This is to practice git commands
 ### Thanks
