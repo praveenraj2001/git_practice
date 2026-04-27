@@ -1,2 +1,2 @@
-# This is to practice git commands -- Edited by Praveen
+# This is to practice git commands -- Edited by newBela
 ### Thanks
